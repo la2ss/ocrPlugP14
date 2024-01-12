@@ -9,7 +9,7 @@ npm i form_modal_sucess
 ```
 ## How to use it
 ### Import
-import Modal from "form_modal_sucess";
+import Modal from "form_modal_sucess_p14";
 
 ### Component
 ```js
